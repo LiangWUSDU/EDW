@@ -10,8 +10,6 @@ keywords: patch fusion, EDW, distance, registration
 
 # Instructions
 
-rerequisites
-
 Keras
 
 Tensorflow
