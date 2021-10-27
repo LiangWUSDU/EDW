@@ -24,7 +24,7 @@ patch_fusion_AAW.py: AAW method
 
 If you use our code, please cite the following paper:
 
-Liang Wu, Shunbo Hu, Changchun Liu."Introducing exponential-distance weighted(EDW) for reducing grid-like artifacts"
+Wu L, Hu S, Liu C. Exponential-Distance Weights for Reducing Grid-Like Artifacts in Patch-Based Medical Image Registration. Sensors. 2021; 21(21):7112. https://doi.org/10.3390/s21217112
 
 # Acknowledgment：
 Some codes in this repository are modified from Labreg (https://github.com/YipengHu/label-reg) and VoxelMorph(https://github.com/voxelmorph/voxelmorph).
