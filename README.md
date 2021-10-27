@@ -3,9 +3,6 @@
  
  The code was written by Dr. Liang Wu, Shandong University.
 
-
-We will publish this work, and when we publish it we will upload it here.
-
 keywords: patch fusion, EDW, distance, registration
 
 # Instructions
