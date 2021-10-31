@@ -1,6 +1,6 @@
 # EDW
- Introducing exponential-distance weighted(EDW) for reducing grid-like artifacts
- 
+Exponential-Distance Weights for Reducing Grid-like Artifacts in Patch-Based Medical Image Registration
+
  The code was written by Dr. Liang Wu, Shandong University.
 
 keywords: patch fusion, EDW, distance, registration
